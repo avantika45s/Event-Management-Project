@@ -12,4 +12,4 @@ Public Event Support: Simplify the process of finding sponsors and promoting you
 
 Nearby Events: Quickly discover and engage with ongoing events in your vicinity, allowing for greater participation and community involvement.
 
-Whether you're an event organizer, sponsor, or attendee, our Event Management System aims to enhance your experience and maximize the success of every event. Join us in revolutionizing the way events are planned, managed, and enjoyed! You can find the SDS and SRS document uploaded above.
+Whether you're an event organizer, sponsor, or attendee, our Event Management System aims to enhance your experience and maximize the success of every event. Join us in revolutionizing the way events are planned, managed, and enjoyed! 
